@@ -1,0 +1,12 @@
+{
+  "name": "memory-card",
+  "displayName": "memory-card",
+  "expo": {
+    "name": "memory-card",
+    "slug": "memory-card",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
